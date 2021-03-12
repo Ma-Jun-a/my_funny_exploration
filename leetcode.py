@@ -1,8 +1,8 @@
-import time
+import time模块
 def timer(func, *args):
-    start = time.clock()
+    start = time模块.clock()
     func(*args)
-    return time.clock() - start
+    return time模块.clock() - start
 # print(timer)
 def sum_two(nums, target):
     nums.sort()

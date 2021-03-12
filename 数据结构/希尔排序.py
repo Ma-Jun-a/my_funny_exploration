@@ -1,5 +1,5 @@
 import random
-import time
+import time模块
 
 my_list = []
 for i in range(1000):
@@ -19,11 +19,11 @@ def xier_sort(list,n):
 # print(xier_sort(list_,1))
 
 def evaluation(func,*args):
-    start = time.clock()
+    start = time模块.clock()
     list = args[0]
     n = args[1]
     func(list,n)
-    return time.clock() - start
+    return time模块.clock() - start
 print(evaluation(xier_sort,list_,1))
 
 

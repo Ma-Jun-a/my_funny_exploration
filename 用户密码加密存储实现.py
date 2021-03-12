@@ -6,12 +6,12 @@ def encrypt_password(password, salt=None):
     """Hash password on the fly."""
     if salt is None:
         salt = os.urandom(8) # 64 bits.
-    # assert 8 == len(salt)
+    assert 8 == len(salt)
     # assert isinstance(salt, str)
 
     # if isinstance(password, ):
     # if isinstance(password,str):
-        # password = password.encode('UTF-8')
+    #     password = password.encode('UTF-8')
 
     # assert isinstance(password, str)
 

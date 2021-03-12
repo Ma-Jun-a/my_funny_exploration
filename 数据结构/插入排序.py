@@ -17,4 +17,12 @@ def insert_sort(list):
     return sorted_list
 print(insert_sort(list_))
 
+from collections import deque
+from queue import Queue
+import heapq
+a = Queue(maxsize=5)
+a.put(3)
+a.put(2)
+a.put(1,block=True,timeout=3)
+
 

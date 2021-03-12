@@ -1,0 +1,6 @@
+[
+  "test_file01.py::Test_01::()::test_01",
+  "test_file01.py::Test_01::()::test_02",
+  "test_file02.py::Test_01::()::test_01",
+  "test_file02.py::Test_01::()::test_02"
+]

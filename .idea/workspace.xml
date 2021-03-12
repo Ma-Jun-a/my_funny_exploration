@@ -1,81 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2f7d1d7b-1bab-4f8d-9a9e-f991a91fbbaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my_funny_exploration.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_ood_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打印漏斗.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据库连接池代码实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/冒泡排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/回溯算法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/希尔排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/归并排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/插入排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/链表实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/用户密码加密存储实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MY_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_tree/class_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_tree/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coroutines-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httprunner_my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/qq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycelery/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycelery/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycelery/makecelery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orm模式/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orm模式/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orm模式/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orm模式/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learn/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learn/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learn/test_file01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_learn/test_file02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_pluggy_ttt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/a/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/a/task/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/a/task/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qincai/majun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/selenuim_.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/autotest01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/autotest02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/autotest03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/ceshiyongli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/csv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/csv/extract_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/csv/opencsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/my_attribute/CTJ01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/my_attribute/CTJ02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/my_attribute/CTJ_componants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/my_attribute/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/my_attribute/attribute_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/runner_test_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/unitTEST01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenuim_.py/unittest02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_script_ex.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web.server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wuyiweiji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/协程的工作原理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据库导入脚本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/广度优先走索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/快速排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/深度优先遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/有用的函数/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/有用的函数/来自于pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则匹配/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/正则匹配/prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流处理器/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流处理器/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流处理器/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流处理器/流处理器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/聚宽数据/沪深300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/单例模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/ITO 生产者消费者模型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/condition的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/flask线程安全.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/mythreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/协程_gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/协程_greenlet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/协程_yeild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/进程间通信PIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/阻塞式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/进程_线程_协程/非阻塞式的.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/带参数的装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/装饰器函数带参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/计数器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/通用带参数装饰器版本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/闭包与装饰器/闭包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_funny_exploration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_funny_exploration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/20.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/30.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/40.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/50.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/README" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coroutines-demo/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/coroutines-demo/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打印漏斗.py" beforeDir="false" afterPath="$PROJECT_DIR$/打印漏斗.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库连接池代码实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据库连接池代码实现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/冒泡排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/冒泡排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/希尔排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/希尔排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/归并排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/归并排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/插入排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/插入排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/用户密码加密存储实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/用户密码加密存储实现.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/print_ood_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/打印漏斗.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/python/python3/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1148">
-              <caret line="308" selection-start-line="308" selection-end-line="308" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/冒泡排序.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/用户密码加密存储实现.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据库连接池代码实现.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/my_funny_exploration$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1594953060063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$.coverage" NAME="广度优先走索 Coverage Results" MODIFIED="1599191132084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$counting.coverage" NAME="counting Coverage Results" MODIFIED="1596767399934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程_线程_协程" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1595916660308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mycelery" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$condition.coverage" NAME="condition的使用 Coverage Results" MODIFIED="1596769999889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程_线程_协程" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$pytest.coverage" NAME="来自于pytest Coverage Results" MODIFIED="1597129764665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/有用的函数" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$time.coverage" NAME="time模块 Coverage Results" MODIFIED="1597217954270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$prac.coverage" NAME="prac Coverage Results" MODIFIED="1599617006994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则匹配" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$MY_salary.coverage" NAME="MY_salary Coverage Results" MODIFIED="1596619027608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$wuyiweiji.coverage" NAME="wuyiweiji Coverage Results" MODIFIED="1590648079037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1596177313288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/闭包与装饰器" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,56 +180,48 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gen</find>
+      <find>gen_task_name</find>
+      <find>popleft</find>
+    </findStrings>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/print_ood_number.py" />
-        <option value="$PROJECT_DIR$/打印漏斗.py" />
-      </list>
-    </option>
+  <component name="JupyterTrust" id="868fdb3f-486c-43c2-95b7-4d4f12d01f15" />
+  <component name="ProjectId" id="1l58oh7v1uy2aPxZaFSaO4ToKdQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="234" />
-    <option name="y" value="68" />
-    <option name="width" value="1529" />
-    <option name="height" value="1047" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="my_funny_exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_funny_exploration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_funny_exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_funny_exploration" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="my_funny_exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_funny_exploration" type="462c0819:PsiDirectoryNode" />
-              <item name="数据库连接池代码实现.py" type="8704e2dd:PyFileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask/tester_web" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -143,30 +231,39 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\01test\my_funny_exploration" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\01test\my_funny_exploration" />
-      <recent name="D:\01test\my_funny_exploration\数据结构" />
+      <recent name="D:\学习资料\my_funny_exploration\pytest_learn" />
+      <recent name="D:\学习资料\my_funny_exploration\selenuim_.py\my_attribute" />
+      <recent name="D:\01test\my_funny_exploration\selenuim_.py" />
+      <recent name="D:\01test\my_funny_exploration\进程_线程_协程" />
+      <recent name="D:\01test\my_funny_exploration\celery_\celery_tasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\01test\my_funny_exploration\utils" />
+      <recent name="D:\01test\my_funny_exploration\流处理器" />
+      <recent name="D:\01test\my_funny_exploration\qincai" />
+      <recent name="D:\01test\my_funny_exploration\qincai\celery_tasks" />
+      <recent name="D:\01test\my_funny_exploration\celery_" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="打印漏斗" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.沪深300">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="my_funny_exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="沪深300" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_funny_exploration" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,12 +271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/聚宽数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/打印漏斗.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/聚宽数据/沪深300.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,12 +285,158 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_funny_exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/day.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_funny_exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\学习资料\my_funny_exploration\learn\day.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_funny_exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/qq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_funny_exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/re.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="my_funny_exploration" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.day1" />
+      <item itemvalue="Python.day" />
+      <item itemvalue="Python.re" />
+      <item itemvalue="Python.qq" />
+      <item itemvalue="Python.沪深300" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.打印漏斗" />
+        <item itemvalue="Python.沪深300" />
+        <item itemvalue="Python.qq" />
+        <item itemvalue="Python.day" />
+        <item itemvalue="Python.re" />
+        <item itemvalue="Python.day1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -204,91 +447,275 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568081499696</updated>
-      <workItem from="1568081501274" duration="3957000" />
+      <workItem from="1568081501274" duration="4561000" />
+      <workItem from="1568174925419" duration="5854000" />
+      <workItem from="1568521193353" duration="11402000" />
+      <workItem from="1568691710148" duration="635000" />
+      <workItem from="1568962236225" duration="8162000" />
+      <workItem from="1568980481356" duration="4635000" />
+      <workItem from="1569026970814" duration="14514000" />
+      <workItem from="1569124122554" duration="4779000" />
+      <workItem from="1569210066895" duration="2636000" />
+      <workItem from="1569236952522" duration="11099000" />
+      <workItem from="1569286000928" duration="19246000" />
+      <workItem from="1569374349259" duration="8641000" />
+      <workItem from="1569510076071" duration="1832000" />
+      <workItem from="1569545251575" duration="6882000" />
+      <workItem from="1569637636430" duration="3614000" />
+      <workItem from="1569661434209" duration="2037000" />
+      <workItem from="1569675972230" duration="213000" />
+      <workItem from="1569815152856" duration="14980000" />
+      <workItem from="1569910638153" duration="9419000" />
+      <workItem from="1569976421281" duration="12766000" />
+      <workItem from="1570021506025" duration="3417000" />
+      <workItem from="1570065292872" duration="2923000" />
+      <workItem from="1570158992072" duration="641000" />
+      <workItem from="1570680611347" duration="8886000" />
+      <workItem from="1570933576873" duration="1178000" />
+      <workItem from="1570937612293" duration="2629000" />
+      <workItem from="1571020142687" duration="5471000" />
+      <workItem from="1571203668993" duration="564000" />
+      <workItem from="1571204639270" duration="1150000" />
+      <workItem from="1571710872182" duration="1257000" />
+      <workItem from="1572235930649" duration="9550000" />
+      <workItem from="1572329474749" duration="5334000" />
+      <workItem from="1572363500670" duration="208000" />
+      <workItem from="1572746463148" duration="598000" />
+      <workItem from="1573353229136" duration="12444000" />
+      <workItem from="1573807480518" duration="1385000" />
+      <workItem from="1575708143511" duration="8743000" />
+      <workItem from="1575874420598" duration="13790000" />
+      <workItem from="1575940349541" duration="535000" />
+      <workItem from="1575940980980" duration="34000" />
+      <workItem from="1575941218766" duration="5416000" />
+      <workItem from="1576149652068" duration="960000" />
+      <workItem from="1611303493521" duration="17000" />
+      <workItem from="1611804748637" duration="11747000" />
+      <workItem from="1611884293785" duration="15032000" />
+      <workItem from="1611974060382" duration="13150000" />
+      <workItem from="1613964348836" duration="5168000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3957000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36008677" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_冒泡排序_py - 2019.09.24 at 11h 48m 31s.xml">
+      <configuration name="pytest in 冒泡排序.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_冒泡排序_py - 2019.09.24 at 11h 49m 28s.xml">
+      <configuration name="pytest in 冒泡排序.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_冒泡排序_py - 2019.09.24 at 11h 52m 27s.xml">
+      <configuration name="pytest in 冒泡排序.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_unitTEST01_py - 2019.10.29 at 14h 22m 22s.xml">
+      <configuration name="pytest in unitTEST01.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_unittest02_py - 2019.10.29 at 14h 27m 32s.xml">
+      <configuration name="pytest in unittest02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_unittest02_py - 2019.10.29 at 14h 28m 22s.xml">
+      <configuration name="pytest in unittest02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_unittest02_py - 2019.10.29 at 14h 29m 33s.xml">
+      <configuration name="pytest in unittest02.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="269" key="FileChooserDialogImpl" timestamp="1613978061588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="269" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613978061588" />
+    <state width="1855" height="280" key="GridCell.Tab.0.bottom" timestamp="1613981011357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613981011357" />
+    <state width="1855" height="280" key="GridCell.Tab.0.center" timestamp="1613981011357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613981011357" />
+    <state width="1855" height="280" key="GridCell.Tab.0.left" timestamp="1613981011357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613981011357" />
+    <state width="1855" height="280" key="GridCell.Tab.0.right" timestamp="1613981011357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613981011357" />
+    <state width="1855" height="313" key="GridCell.Tab.1.bottom" timestamp="1612002634807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="313" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612002634807" />
+    <state width="1855" height="313" key="GridCell.Tab.1.center" timestamp="1612002634807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="313" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612002634807" />
+    <state width="1855" height="313" key="GridCell.Tab.1.left" timestamp="1612002634807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="313" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612002634807" />
+    <state width="1855" height="313" key="GridCell.Tab.1.right" timestamp="1612002634807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="313" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612002634807" />
+    <state x="344" y="0" key="SettingsEditor" timestamp="1611994636357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611994636357" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1611303494209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611303494209" />
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1611996135811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611996135811" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>324</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>30</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>325</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>326</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>35</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>327</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>42</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>328</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>31</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>329</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>32</line>
+          <url>file://$PROJECT_DIR$/../../virtual/flask/Lib/site-packages/pymysql/cursors.py</url>
+          <line>169</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/打印漏斗.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>219</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/httprunner_my.py</url>
+          <line>167</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn/re.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn/re.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn/day.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn/day.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn/day.py</url>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn/day.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -301,41 +728,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/my_funny_exploration$.coverage" NAME="打印漏斗 Coverage Results" MODIFIED="1568085267106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构/冒泡排序.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/用户密码加密存储实现.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据库连接池代码实现.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/print_ood_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/python/python3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1148">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/打印漏斗.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/my_funny_exploration$qq.coverage" NAME="qq Coverage Results" MODIFIED="1612001537977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$day.coverage" NAME="day Coverage Results" MODIFIED="1611995344441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$300.coverage" NAME="沪深300 Coverage Results" MODIFIED="1613974645429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/聚宽数据" />
+    <SUITE FILE_PATH="coverage/my_funny_exploration$re.coverage" NAME="re Coverage Results" MODIFIED="1611884999990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
   </component>
 </project>

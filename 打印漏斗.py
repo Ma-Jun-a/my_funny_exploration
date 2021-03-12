@@ -41,5 +41,6 @@ def back1(n):
         print(" "*z+"*"*s+" "*z,end='\n')
 
     print(y)
-back1(10)
+# back1(10)
+
 

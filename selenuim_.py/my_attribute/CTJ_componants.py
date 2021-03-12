@@ -1,0 +1,10 @@
+# 基础数据
+# driver.find_element_by_css_selector('#EB7D6E2936304F169327A201655844C4').click()
+# 统计查询
+# driver.find_element_by_css_selector('#9C3A684880B2467A935B206D348B8E47').click()
+# 监督检查
+# driver.find_element_by_css_selector('#79B35D92566B49199159E84CBDAFE674').click()
+# 开发配置
+# driver.find_element_by_css_selector('#2DF91807699747EABA9826954FA59ACF').click()
+# 电子票据档案管理
+# driver.find_element_by_css_selector('#33DC1CAC549947A0883579CDC7F69076').click()

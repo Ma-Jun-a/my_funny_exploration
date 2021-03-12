@@ -1,4 +1,4 @@
-import time
+import time模块
 import pymysql
 import threading
 from DBUtils.PooledDB import PooledDB,SharedDBConnection
